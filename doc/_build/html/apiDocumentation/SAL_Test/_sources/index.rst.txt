@@ -1,0 +1,86 @@
+
+.. SAL_Test documentation master file, created by salgenerator
+
+Welcome to SAL_Test's API documentation!
+==================================================
+
+`IDL Test DDS Topics <idl/annotated.html>`_
+
+
+`Java Test API <java/index.html>`_
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+:ref:`genindex`
+
+Docs
+====
+
+.. doxygenclass:: SAL_Test
+   :members:
+
+.. doxygenstruct:: Test_ackcmdC
+   :members:
+.. doxygenstruct:: Test_arraysC
+   :members:
+.. doxygenstruct:: Test_command_abortC
+   :members:
+.. doxygenstruct:: Test_command_disableC
+   :members:
+.. doxygenstruct:: Test_command_enableC
+   :members:
+.. doxygenstruct:: Test_command_enterControlC
+   :members:
+.. doxygenstruct:: Test_command_exitControlC
+   :members:
+.. doxygenstruct:: Test_command_faultC
+   :members:
+.. doxygenstruct:: Test_command_setArraysC
+   :members:
+.. doxygenstruct:: Test_command_setAuthListC
+   :members:
+.. doxygenstruct:: Test_command_setLogLevelC
+   :members:
+.. doxygenstruct:: Test_command_setScalarsC
+   :members:
+.. doxygenstruct:: Test_command_setValueC
+   :members:
+.. doxygenstruct:: Test_command_standbyC
+   :members:
+.. doxygenstruct:: Test_command_startC
+   :members:
+.. doxygenstruct:: Test_command_waitC
+   :members:
+.. doxygenstruct:: Test_logevent_appliedSettingsMatchStartC
+   :members:
+.. doxygenstruct:: Test_logevent_arraysC
+   :members:
+.. doxygenstruct:: Test_logevent_authListC
+   :members:
+.. doxygenstruct:: Test_logevent_errorCodeC
+   :members:
+.. doxygenstruct:: Test_logevent_heartbeatC
+   :members:
+.. doxygenstruct:: Test_logevent_logLevelC
+   :members:
+.. doxygenstruct:: Test_logevent_logMessageC
+   :members:
+.. doxygenstruct:: Test_logevent_scalarsC
+   :members:
+.. doxygenstruct:: Test_logevent_settingVersionsC
+   :members:
+.. doxygenstruct:: Test_logevent_settingsAppliedC
+   :members:
+.. doxygenstruct:: Test_logevent_simulationModeC
+   :members:
+.. doxygenstruct:: Test_logevent_softwareVersionsC
+   :members:
+.. doxygenstruct:: Test_logevent_summaryStateC
+   :members:
+.. doxygenstruct:: Test_scalarsC
+   :members:
+.. doxygenstruct:: salActor
+   :members:
