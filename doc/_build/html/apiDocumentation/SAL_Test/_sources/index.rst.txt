@@ -11,6 +11,7 @@ Welcome to SAL_Test's API documentation!
 
 
 .. toctree::
+.. include :: SALPY_Test.rst
    :maxdepth: 2
    :caption: Contents:
 
@@ -83,4 +84,6 @@ Docs
 .. doxygenstruct:: Test_scalarsC
    :members:
 .. doxygenstruct:: salActor
+   :members:
+.. doxygenclass:: SALPY_Test
    :members:
