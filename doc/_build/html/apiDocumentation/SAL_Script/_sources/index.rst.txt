@@ -1,0 +1,60 @@
+
+.. SAL_Script documentation master file, created by salgenerator
+
+Welcome to SAL_Script's API documentation!
+==================================================
+
+`IDL Script DDS Topics <idl/annotated.html>`_
+
+
+.. toctree::
+.. include :: SALPY_Test.rst
+   :maxdepth: 2
+   :caption: Contents:
+
+:ref:`genindex`
+
+Docs
+====
+
+.. doxygenclass:: SAL_Script
+   :members:
+
+.. doxygenstruct:: Script_ackcmdC
+   :members:
+.. doxygenstruct:: Script_command_configureC
+   :members:
+.. doxygenstruct:: Script_command_resumeC
+   :members:
+.. doxygenstruct:: Script_command_runC
+   :members:
+.. doxygenstruct:: Script_command_setAuthListC
+   :members:
+.. doxygenstruct:: Script_command_setCheckpointsC
+   :members:
+.. doxygenstruct:: Script_command_setGroupIdC
+   :members:
+.. doxygenstruct:: Script_command_setLogLevelC
+   :members:
+.. doxygenstruct:: Script_command_stopC
+   :members:
+.. doxygenstruct:: Script_logevent_authListC
+   :members:
+.. doxygenstruct:: Script_logevent_checkpointsC
+   :members:
+.. doxygenstruct:: Script_logevent_descriptionC
+   :members:
+.. doxygenstruct:: Script_logevent_heartbeatC
+   :members:
+.. doxygenstruct:: Script_logevent_logLevelC
+   :members:
+.. doxygenstruct:: Script_logevent_logMessageC
+   :members:
+.. doxygenstruct:: Script_logevent_metadataC
+   :members:
+.. doxygenstruct:: Script_logevent_stateC
+   :members:
+.. doxygenstruct:: salActor
+   :members:
+.. doxygenclass:: SALPY_Test
+   :members:
