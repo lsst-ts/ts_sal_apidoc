@@ -1,0 +1,22 @@
+
+.. SAL_AdamSensors documentation master file, created by salgenerator
+
+Welcome to SAL_AdamSensors's API documentation!
+==================================================
+
+`IDL AdamSensors DDS Topics <idl/annotated.html>`_
+
+
+.. toctree::
+.. include :: SALPY_Test.rst
+   :maxdepth: 2
+   :caption: Contents:
+
+:ref:`genindex`
+
+Docs
+====
+
+.. doxygenclass:: SAL_AdamSensors
+   :members:
+
